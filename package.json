@@ -17,7 +17,7 @@
   "author": "@datsteves (FreiraumIO)",
   "repository": "github:FreiraumIO/msgreader",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "@babel/cli": "^7.0.0",
     "@babel/core": "^7.0.0",
     "@babel/preset-env": "^7.0.0"
